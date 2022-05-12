@@ -1,0 +1,4 @@
+# Grupos_de_risco_KMeans
+Este é um projeto que classifica clientes de uma seguradora de saúde em diferentes grupos de risco para doenças cardíacas. Ele faz parte do desafio do Módulo 1 do Bootcamp IGTI Arquiteto de Big Data.
+
+Enunciado: Uma operadora de seguro de saúde identificou, na sua base de dados de clientes, a relação entre os dados de colesterol e peso com a incidência de problemas que influenciam no desenvolvimento de doenças cardíacas. Pensando no bem-estar dos seus clientes, e ao mesmo tempo pensando em diminuir problemas de internação e tratamento para esses tipos de causa, a operadora quer realizar um estudo para identificar o perfil de pessoas que se encaixam nos grupos de risco e assim realizar medidas preventivas e palestras de cuidados médicos. Para isso, a operadora conta com a equipe de arquiteto de big data para ajudá-los a encontrar o grupo de risco dentre essas pessoas.
